@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Landing Page</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Website</h1>
+        <p>Your go-to destination for amazing content.</p>
+    </header>
+
+    <section class="features">
+        <div class="feature">
+            <h2>Feature 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <div class="feature">
+            <h2>Feature 2</h2>
+            <p>Proin eget tortor non libero efficitur fermentum.</p>
+        </div>
+        <div class="feature">
+            <h2>Feature 3</h2>
+            <p>Nullam gravida elit eget turpis congue, et blandit enim tempus.</p>
+        </div>
+    </section>
+
+    <section class="cta">
+        <h2>Join Us Today!</h2>
+        <p>Sign up now for exclusive access to our content.</p>
+        <a href="#" class="button">Sign Up</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Company</p>
+    </footer>
+</body>
+</html>
