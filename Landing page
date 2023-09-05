@@ -7,33 +7,33 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Our Website</h1>
-        <p>Your go-to destination for amazing content.</p>
+        <h1>THE TOP 3 ANIMES</h1>
+        <p>These are the best animes of all time</p>
     </header>
 
     <section class="features">
         <div class="feature">
-            <h2>Feature 1</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <h2>NARUTO</h2>
+            <p></p>Guided by the spirit demon within him, orphaned Naruto learns to harness his powers as a ninja in this anime adventure series. Watch trailers & learn more.
         </div>
         <div class="feature">
-            <h2>Feature 2</h2>
-            <p>Proin eget tortor non libero efficitur fermentum.</p>
+            <h2>BLEACH</h2>
+            <p> Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. </p>
         </div>
         <div class="feature">
-            <h2>Feature 3</h2>
-            <p>Nullam gravida elit eget turpis congue, et blandit enim tempus.</p>
+            <h2>DEMON SLAYER</h2>
+            <p> After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost. </p>
         </div>
     </section>
 
     <section class="cta">
-        <h2>Join Us Today!</h2>
+        <h2>For more Details </h2>
         <p>Sign up now for exclusive access to our content.</p>
         <a href="#" class="button">Sign Up</a>
     </section>
 
     <footer>
-        <p>&copy; 2023 Your Company</p>
+        <p>&copy; 2023 BANKAI</p>
     </footer>
 </body>
 </html>
